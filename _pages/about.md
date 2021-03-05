@@ -1,6 +1,5 @@
 ---
 title: "안녕하세요, 윤형석입니다."
-permalink: /about/
 layout: single
 ---
 
