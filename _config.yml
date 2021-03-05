@@ -30,12 +30,13 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook               : # "https://www.facebook.com/hyongseok.yoon/"
+  facebook               : 
+  # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -94,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyongseok Yoon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/HyongseokYoon.jpeg"
   bio              : " “The world needs dreamers and the world needs doers. But above all what the world needs most are dreamers that do.” "
   location         : "Daejeon, KAIST"
   email            : 
