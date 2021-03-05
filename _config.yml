@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Hyongseok Yoon(윤형석)"
   avatar           : "/assets/images/cartoon_smile.PNG"
-  bio              : " “The world needs dreamers and the world needs doers. But above all what the world needs most are dreamers that do.” "
+  bio              : " Research Assistant at UVR Lab, KAIST "
   location         : "Daejeon, KAIST"
   email            : 
   links:
@@ -277,6 +277,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: true
       share: true
       related: true
+      search: true
