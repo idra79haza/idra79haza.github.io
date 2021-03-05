@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: https://idra79haza.github.io/idra79haza/about/
+  - title: "Personal Blog"
+    url: https://www.notion.so/Sometimes-one-little-light-is-enough-0bb7fd71184149ff88c2c2ef19d68b05
+  - title: "CV"
+    url: https://www.notion.so/CV-afa3bf025b5e4bb6805aec5c92e82b45
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
