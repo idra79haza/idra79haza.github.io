@@ -19,7 +19,7 @@ locale                   : "kr-KR"
 title                    : "Lucete"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyongseok Yoon"
+name                     : "Hyongseok Yoon(윤형석)"
 description              : "Some things about Visaual Localization"
 url                      : "https://idra79haza.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyongseok Yoon(윤형석)"
-  avatar           : "/assets/images/cartoon_smile.png"
+  avatar           : "/assets/images/cartoon_smile.PNG"
   bio              : " “The world needs dreamers and the world needs doers. But above all what the world needs most are dreamers that do.” "
   location         : "Daejeon, KAIST"
   email            : 
